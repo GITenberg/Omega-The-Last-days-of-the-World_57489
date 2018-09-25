@@ -1,0 +1,51 @@
+_repo: Omega-The-Last-days-of-the-World_57489
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: al.
+    gutenberg_agent_id: '49417'
+    url: http://www.gutenberg.org/2009/agents/49417
+  - agent_name: Saunier
+    gutenberg_agent_id: '49415'
+    url: http://www.gutenberg.org/2009/agents/49415
+  - agent_name: Mêaulle
+    gutenberg_agent_id: '49416'
+    url: http://www.gutenberg.org/2009/agents/49416
+  - agent_name: Vogeler, Heinrich
+    aliases:
+    - Vogeler-Worpswede, Heinrich
+    - Vogeler, Johann Heinrich
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '32203'
+    url: http://www.gutenberg.org/2009/agents/32203
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Heinrich_Vogeler
+    - http://en.wikipedia.org/wiki/Heinrich_Vogeler
+  - agent_name: Laurens, Jean Paul
+    gutenberg_agent_id: '49414'
+    url: http://www.gutenberg.org/2009/agents/49414
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Flammarion, Nicolas Camille
+    - Filamaryon, Kamil
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: ''
+gutenberg_issued: '2018-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Omega: The Last days of the World'
+url: http://www.gutenberg.org/ebooks/57489
