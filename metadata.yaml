@@ -25,6 +25,9 @@ contributor:
   - agent_name: Laurens, Jean Paul
     gutenberg_agent_id: '49414'
     url: http://www.gutenberg.org/2009/agents/49414
+covers:
+- cover_type: archival
+  image_path: 57489-h/images/cover.jpg
 creator:
   author:
     agent_name: Flammarion, Camille
@@ -37,6 +40,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57489#Omega-The-Last-days-of-the-World
 gutenberg_issued: '2018-07-12'
 gutenberg_type: Text
 identifiers:
